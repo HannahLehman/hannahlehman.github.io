@@ -1,3 +1,14 @@
+#contact li{
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  padding-right: 50px;
+}
+
+.fa .fa-github-square {
+  width: 20px;
+}
+
 .intro {
   padding-left: 15px;
   height: 250px;
@@ -11,12 +22,13 @@
   height: 100px;
 }
 
-.home-ad{position:fixed;
+.home-ad{
+  position:fixed;
   right:20px;top:200px;
-border:1px solid #f2f2f2;
-background:rgb(255,255,255);
-border-radius:0;
-z-index:9999;
+  border:1px solid #f2f2f2;
+  background:rgb(255,255,255);
+  border-radius:0;
+  z-index:9999;
 }
 
 .home-ad .close{float:right;color:#FFF;background:#6B6B6B;width:20px;height:20px;line-height:16px;display:inline-block;font-size:12px;font-weight:normal;text-align:center;text-decoration:none;text-shadow:none;margin-bottom:5px;}
