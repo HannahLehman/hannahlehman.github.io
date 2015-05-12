@@ -1,0 +1,49 @@
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#contact li{
+  color: 4D6835;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  padding-right: 50px;
+  padding-top: 30px;
+}
+
+.fa .fa-github-square {
+  width: 20px;
+}
+
+.intro {
+  padding-left: 15px;
+  height: 250px;
+}
+
+.spacer {
+  height: 150px;
+}
+
+.spacer2 {
+  height: 100px;
+}
+
+.stripe {
+/*  background: #3D5C00;
+*/  background: #9DAD7F;  
+
+  height: 30px;
+  width: 100%;
+  display: inline;
+}
+
+.name h1 {
+  font-size: 42px;
+  font-weight: 400;
+}
+
+.name p {
+  font-size: 18px;
+  font-weight: 400;
+}
