@@ -8,8 +8,8 @@ body {
   width: 30px;
   height: 30px;
   display: inline-block;
-  padding-right: 50px;
-  padding-top: 30px;
+  /*padding-right: 50px;*/
+  /*padding-top: 30px;*/
 }
 
 .fa .fa-github-square {
