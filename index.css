@@ -4,7 +4,7 @@ body {
 }
 
 #contact li{
-  color: 4D6835;
+  /*color: 4D6835;*/
   width: 30px;
   height: 30px;
   display: inline-block;
@@ -31,7 +31,8 @@ body {
 
 .stripe {
 /*  background: #3D5C00;
-*/  background: #9DAD7F;  
+*/  
+  /*background: #9DAD7F;  */
   height: 30px;
   width: 100%;
   display: inline;
