@@ -811,6 +811,12 @@ aside.cta-quote span.quote {
   color: white;
   border-color: #ffc153;
 }
+#portfoliolist {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 #portfoliolist .portfolio {
   width: 31%;
   margin: 1%;
@@ -1015,6 +1021,9 @@ footer.footer .copyright p.small {
   footer.footer {
     background-attachment: fixed;
   }
+}
+.extra-top-margin {
+  margin-top: 5rem;
 }
 .btn-outline-light {
   color: white;
